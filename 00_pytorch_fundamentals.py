@@ -8,7 +8,6 @@ Original file is located at
 
 **00 PyTorch Fundamnentals**
 
-Resource notebook: https://www.learnpytorch.io/00_pytorch_fundamentals/
 """
 
 import torch
