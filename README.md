@@ -1,3 +1,3 @@
 # PyTorch
 
-Deep Learning, Neural Networks, Machine Learning, Computer Vision
+Deep Learning, Neural Networks, Machine Learning, Computer Vision, Reinforcement Learning
